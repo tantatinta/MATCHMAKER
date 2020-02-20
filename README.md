@@ -1,6 +1,6 @@
-# Project1 Change name!
+# Welcome to MatchMaker!
 
-## Welcome to MatchMaker! The best stop before you give up on finding love! Please answer 5 simple questions and we will match you with the companion of your dreams.
+## The best stop before you give up on finding love! Please answer 5 simple questions and we will match you with the companion of your dreams.
 
 ### This site is based on a fun "bait and switch" concept to find you dogs for adoption instead of a human romantic partner. Hopefully, this site will bring more searches and awareness to dogs in need of love.
 
